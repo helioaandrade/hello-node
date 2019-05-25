@@ -1,0 +1,29 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Hello Node",
+  "author": "Helio Andrade <helioandrade@hotmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "eslint": "5.12.1",
+    "eslint-config-prettier": "4.0.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "prettier": "1.16.1"
+  },
+  "homepage": "https://github.com/helioaandrade/hello-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helioaandrade/hello-node.git"
+  },
+  "private": true
+}
